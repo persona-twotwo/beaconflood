@@ -2,3 +2,5 @@
 ```
 sudo ./beaconflood mon0 ssid-list.txt  
 ```
+
+![Wifi 목록 캡쳐](image.png)
